@@ -35,41 +35,7 @@ open_to: SDE / iOS Developer — Internships & Full-Time Roles
 mindset: "Where employees see tasks, intrapreneurs see opportunity."
 ```
 
----
 
-## ⚡ Featured Project
-
-<a href="https://github.com/Shubhsinghal31/Eternal-Lite">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Shubhsinghal31&repo=Eternal-Lite&theme=tokyonight&hide_border=true&border_radius=12" />
-</a>
-
-<table>
-<tr>
-<td width="50%">
-
-### 📡 Eternal Lite
-**Offline-first food delivery iOS app**
-
-- ⚡ **1 API call** instead of 15 (93% reduction)
-- 📡 **Mesh Relay** ordering with zero internet
-- 🟢 **Live Activities** for order tracking (0 polling)
-- 🔐 **CryptoKit** signed & encrypted packets
-- 🍎 **12+ Apple frameworks**, zero third-party deps
-- 📱 **18,000+ lines** of pure SwiftUI
-
-</td>
-<td width="50%">
-
-### 🍎 Apple APIs Used
-`MultipeerConnectivity` · `CryptoKit` · `ActivityKit` · `Network.framework` · `BackgroundTasks` · `CoreLocation` · `Vision` · `AppIntents` · `WidgetKit` · `SwiftUI` · `UIKit` · `Security`
-
-[![View Project](https://img.shields.io/badge/View_Project-⚡_Eternal_Lite-6C63FF?style=for-the-badge&logo=github)](https://github.com/Shubhsinghal31/Eternal-Lite)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -107,42 +73,7 @@ mindset: "Where employees see tasks, intrapreneurs see opportunity."
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shubhsinghal31&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhsinghal31&theme=tokyonight&hide_border=true&border_radius=12" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhsinghal31&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shubhsinghal31&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shubhsinghal31/Shubhsinghal31/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shubhsinghal31/Shubhsinghal31/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Shubhsinghal31/Shubhsinghal31/output/github-snake-dark.svg" />
-</picture>
-</div>
-
----
 
 ## 🤝 Let's Connect
 
