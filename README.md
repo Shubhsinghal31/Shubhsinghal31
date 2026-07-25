@@ -77,9 +77,9 @@ mindset: "Where employees see tasks, intrapreneurs see opportunity."
 ## 🤝 Let's Connect
 
 <div align="center">
-<a href="https://www.linkedin.com/in/shubh-singhal-b052a5230"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shubh-singhal-b052a5230"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a href="mailto:shubhsinghal31@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:shubhsinghal31@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </div>
 
 ---
