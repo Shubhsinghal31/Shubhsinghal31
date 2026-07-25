@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Shubh+Singhal;iOS+Developer+%7C+Software+Engineer+%7C+Builder" alt="Typing SVG" /></a>
+# 👋 Hey there, I'm Shubh Singhal
 
-<br/>
+<!-- ANIMATED TYPING HEADER -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1500&pause=500&color=6C63FF&center=true&vCenter=true&width=600&height=50&lines=iOS+Developer+%7C+Software+Engineer;Intrapreneur+%7C+Product+Builder;Passionate+about+System+Design;Currently+learning+Agentic+AI" alt="Typing SVG" /></a>
 
 <!-- TAGLINE -->
 <img src="https://img.shields.io/badge/🚀_Building_products_that_solve_real_problems-000000?style=for-the-badge" />
