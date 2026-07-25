@@ -43,25 +43,31 @@ mindset: "Where employees see tasks, intrapreneurs see opportunity."
 
 ### Languages
 <p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=swift,cpp,c,java,py,js,html,php" />
-</a>
+  <a href="https://swift.org/documentation/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" /></a>
+  <a href="https://cplusplus.com/doc/"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" /></a>
+  <a href="https://en.cppreference.com/w/c/language"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
+  <a href="https://dev.java/learn/"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
+  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=py" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" alt="HTML" /></a>
+  <a href="https://www.php.net/manual/en/"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
 </p>
 
 ### iOS & Mobile
 <p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=apple,swift,xcode" />
-</a>
-<img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="48" height="48" alt="SwiftUI" />
-<img src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png" width="48" height="48" alt="UIKit" />
+  <a href="https://developer.apple.com/ios/"><img src="https://skillicons.dev/icons?i=apple" alt="Apple" /></a>
+  <a href="https://swift.org/documentation/"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" /></a>
+  <a href="https://developer.apple.com/xcode/"><img src="https://skillicons.dev/icons?i=xcode" alt="Xcode" /></a>
+  <a href="https://developer.apple.com/xcode/swiftui/"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="48" height="48" alt="SwiftUI" /></a>
+  <a href="https://developer.apple.com/documentation/uikit"><img src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png" width="48" height="48" alt="UIKit" /></a>
 </p>
 
 ### Databases & Tools
 <p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github" />
-</a>
+  <a href="https://dev.mysql.com/doc/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" /></a>
+  <a href="https://www.mongodb.com/docs/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+  <a href="https://git-scm.com/doc"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
+  <a href="https://docs.github.com/en"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
 </p>
 
 </div>
